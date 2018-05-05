@@ -16,6 +16,3 @@ A python-based program for find the degree in your measurement.
 
 kutayyavuz03@hotmail.com
 
-
-
-For other projects /kutay.info\

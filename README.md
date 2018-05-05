@@ -15,4 +15,3 @@ A python-based program for find the degree in your measurement.
 3} Double click to tulpaner.py
 
 kutayyavuz03@hotmail.com
-
